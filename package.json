@@ -1,0 +1,19 @@
+{
+  "scripts": {
+    "start": "vite"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.3.2",
+    "vite": "^4.3.8"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.4.14"
+  },
+  "name": "za",
+  "version": "1.0.0",
+  "main": "postcss.config.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
