@@ -13,7 +13,7 @@
 .nvi {
     
     /* box-shadow: 0 5px 15px rgba(0, 0,0, 0.06); */
-    color: white;
+    color:white;
    
 }
 
@@ -339,3 +339,28 @@ nav .mega .women-brand li {
 .price {
     margin-top: 0.5vw;
 }
+
+/*   -------foooootttererrrr   ------ */
+
+.fot {
+    background-image: linear-gradient(to right,#595550,#cac5c5);
+    height: 25rem;
+}
+
+.fotercl {
+   color: white;
+   line-height: 1.5vw;
+   font-weight: 500;
+   font-size: 1vw;
+}
+.pop5 {
+
+    font-weight: 800;
+    margin-top: 10px;
+    font-size: 1.3vw;
+
+}
+
+
+/* --- */
+
